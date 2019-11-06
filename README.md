@@ -1,2 +1,3 @@
-# async-smtplient
+# Async-SMTP client
+
 Asynchronous SMTP client
